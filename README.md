@@ -1,12 +1,4 @@
-Sobre mim
-
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em backend e cloud
-
-──────
-
-## 🛠️ Tecnologias
-
-**Backend:** Python · FastAPI · SQLAlchemy  
-**Database:** MySQL · Redis  
-**Cloud:** Azure · AWS  
-**Tools:** Git · GitHub · Docker
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliasouza-s&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasouza-s&layout=compact&theme=tokyonight" height="180"/>
+</p>
