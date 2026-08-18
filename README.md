@@ -1,5 +1,6 @@
 Julia Souza
 Estudante de ADS | Backend & Cloud
+
 ──────
 
 Sobre mim
